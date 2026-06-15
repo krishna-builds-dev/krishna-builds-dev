@@ -1,3 +1,9 @@
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c8258006-b806-4312-9824-d6b98053bb79" alt="Krishna Shrestha" />
+</p>
+
 <p align="center">
   <a href="https://github.com/krishna-builds-dev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Supabase;Building+real-world+SaaS+products;Always+learning+new+things;Open+for+Freelance+Work!&font=Fira%20Code&center=true&width=440&height=45&color=c77dff&vCenter=true&pause=1000&size=22" />
