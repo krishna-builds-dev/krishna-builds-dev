@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8258006-b806-4312-9824-d6b98053bb79" alt="Krishna Shrestha" />
+  <img src="https://github.com/user-attachments/assets/bd01a0fe-b0bc-4f1b-b7e4-8255e8757f8a" alt="Krishna Shrestha" />
 </p>
 
 <p align="center">
