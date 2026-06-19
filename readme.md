@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a7f964e3-e292-4949-a8bb-14c75f28d608" alt="Krishna Shrestha" />
 </p>
@@ -12,14 +10,13 @@
 
 <!-- Social icons -->
 <p align="center">
-  <a href="https://www.krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://www.linkedin.com/in/krishna-shrestha-1675751b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/krishna-shrestha-1675751b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://dev.to/krishna-builds-dev"><img width="32px" alt="dev.to" title="dev.to" src="https://github.com/user-attachments/assets/edd14ad8-d831-4821-83d5-9e5f8855dcc9"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/krishna.builds.dev/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/mVm29vK.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:krishna.builds.dev@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="mailto:krishna.builds.dev@gmail.com"><img width="32px" alt="Ko-fi" title="Ko-fi" src="https://github.com/user-attachments/assets/afa99ee9-0a97-4f42-9d64-1a90e500c0ce"/></a>
 </p>
+
 
 <br/>
 
