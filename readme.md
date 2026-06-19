@@ -1,8 +1,10 @@
 <p align="center">
+<!-- Name -->
   <img src="https://github.com/user-attachments/assets/a7f964e3-e292-4949-a8bb-14c75f28d608" alt="Krishna Shrestha" />
 </p>
 
 <p align="center">
+<!-- Typing Effect -->
   <a href="https://github.com/krishna-builds-dev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Supabase;Building+real-world+SaaS+products;Always+learning+new+things;Open+for+Freelance+Work!&font=Fira%20Code&center=true&width=440&height=45&color=c77dff&vCenter=true&pause=1000&size=22" />
   </a>
@@ -10,11 +12,16 @@
 
 <!-- Social icons -->
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krishna-shrestha-1675751b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Dev.to -->
   <a href="https://dev.to/krishna-builds-dev"><img width="32px" alt="dev.to" title="dev.to" src="https://github.com/user-attachments/assets/edd14ad8-d831-4821-83d5-9e5f8855dcc9"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:krishna.builds.dev@gmail.com"><img width="32px" alt="Ko-fi" title="Ko-fi" src="https://github.com/user-attachments/assets/afa99ee9-0a97-4f42-9d64-1a90e500c0ce"/></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/krishna.builds.dev"><img width="32px" alt="instagram" title="instagram" src="https://github.com/user-attachments/assets/04f1425d-7c77-4b98-84b1-20bd0df36bc5"/></a>
+  <!-- Portfolio -->
+  <a href="https://krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/aa0d6564-bb4d-40a5-8b6f-9406a5f7f33f"/></a>
 </p>
 
 
