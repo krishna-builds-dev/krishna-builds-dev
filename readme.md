@@ -18,8 +18,10 @@
   <!-- Dev.to -->
   <a href="https://dev.to/krishna-builds-dev"><img width="32px" alt="dev.to" title="dev.to" src="https://github.com/user-attachments/assets/edd14ad8-d831-4821-83d5-9e5f8855dcc9"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+   
   <!-- Instagram -->
   <a href="https://www.instagram.com/krishna.builds.dev"><img width="32px" alt="instagram" title="instagram" src="https://github.com/user-attachments/assets/04f1425d-7c77-4b98-84b1-20bd0df36bc5"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Portfolio -->
   <a href="https://krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/aa0d6564-bb4d-40a5-8b6f-9406a5f7f33f"/></a>
 </p>
