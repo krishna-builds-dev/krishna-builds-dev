@@ -1,9 +1,9 @@
-<p align="center">
+<p style="text-align: center;">
 <!-- Name -->
   <img src="https://github.com/user-attachments/assets/a7f964e3-e292-4949-a8bb-14c75f28d608" alt="Krishna Shrestha" />
 </p>
 
-<p align="center">
+<p style="text-align: center;">
 <!-- Typing Effect -->
   <a href="https://github.com/krishna-builds-dev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Next.js+%7C+React+%7C+Supabase;Building+real-world+SaaS+products;Always+learning+new+things;Open+for+Freelance+Work!&font=Fira%20Code&center=true&width=440&height=45&color=c77dff&vCenter=true&pause=1000&size=22" />
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Social icons -->
-<p align="center">
+<p style="text-align: center;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/krishna-shrestha-1675751b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
