@@ -13,7 +13,7 @@
 <!-- Social icons -->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/krishna-shrestha-1675751b8/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
+  <a href="https://www.linkedin.com/in/krishna-builds-dev/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Dev.to -->
   <a href="https://dev.to/krishna-builds-dev"><img width="32px" alt="dev.to" title="dev.to" src="https://github.com/user-attachments/assets/edd14ad8-d831-4821-83d5-9e5f8855dcc9"/></a>
@@ -25,15 +25,6 @@
   <a href="https://www.krishna011.com.np/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/c521df38-4bb9-4bc2-9c64-29171936feab"/></a>
 </p>
 
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/krishna-builds-dev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/krishna-builds-dev?color=7b2fff&style=for-the-badge&labelColor=5a00cc&logo=star"/></a>
-  <a href="https://github.com/krishna-builds-dev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/krishna-builds-dev?color=7b2fff&labelColor=5a00cc&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 <br/>
 
