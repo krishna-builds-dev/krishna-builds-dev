@@ -145,7 +145,6 @@
   <p><a href="#"><img alt="Krishna's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=krishna-builds-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1a0033&title_color=c77dff&icon_color=7b2fff" height="192px"/></a>
   <a href="#"><img alt="Krishna's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=krishna-builds-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1a0033&title_color=c77dff&icon_color=7b2fff" height="192px"/></a>
   </p>
-  <br/>
 
   <h3>📈 Activity Graph</h3>
 
