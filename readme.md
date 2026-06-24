@@ -13,16 +13,16 @@
 <!-- Social icons -->
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/krishna-builds-dev/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
+  <a href="https://linkedin.com/in/krishna-builds-dev/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/902aa897-46e5-459c-a2c9-b2ab696df8ac"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Dev.to -->
   <a href="https://dev.to/krishna-builds-dev"><img width="32px" alt="dev.to" title="dev.to" src="https://github.com/user-attachments/assets/edd14ad8-d831-4821-83d5-9e5f8855dcc9"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/krishna.builds.dev"><img width="32px" alt="instagram" title="instagram" src="https://github.com/user-attachments/assets/04f1425d-7c77-4b98-84b1-20bd0df36bc5"/></a>
+  <a href="https://instagram.com/krishna.builds.dev"><img width="32px" alt="instagram" title="instagram" src="https://github.com/user-attachments/assets/04f1425d-7c77-4b98-84b1-20bd0df36bc5"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Portfolio -->
-  <a href="krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/c521df38-4bb9-4bc2-9c64-29171936feab"/></a>
+  <a href="https://krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/c521df38-4bb9-4bc2-9c64-29171936feab"/></a>
 </p>
 <br/>
 
