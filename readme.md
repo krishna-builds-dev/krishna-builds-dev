@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/krishna.builds.dev"><img width="32px" alt="instagram" title="instagram" src="https://github.com/user-attachments/assets/04f1425d-7c77-4b98-84b1-20bd0df36bc5"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Portfolio -->
-  <a href="https://www.krishna011.com.np/"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/c521df38-4bb9-4bc2-9c64-29171936feab"/></a>
+  <a href="krishna011.com.np"><img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/user-attachments/assets/c521df38-4bb9-4bc2-9c64-29171936feab"/></a>
 </p>
 <br/>
 
